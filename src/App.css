@@ -1,0 +1,21 @@
+* {
+    background-color: black;
+}
+/* Add animation to sections on scroll */
+section {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: all 0.5s ease-in-out;
+}
+
+section.active {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* Add animation to navbar links on hover */
+.navbar ul li a:hover {
+    background-color: #663399;
+    color: #fff;
+    transition: all 0.3s ease-in-out;
+}
