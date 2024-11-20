@@ -17,7 +17,7 @@ const Projects = () => {
         {
             title: "portfolio",
             description: "My Porfolio Website crafted  with aceternity ui and tailwind and framer motion and shadcn",
-            link: "https://nihal-dev.vercel.app/",
+            link: "https://obaidmohammad.netlify.app/",
             code: "https://github.com/obaid2249/portofolio",
             image:"https://i.ibb.co/zbKtZR5/obaidd.png",
         },
